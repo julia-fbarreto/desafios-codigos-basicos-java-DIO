@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/desafios-codigos-basicos-java-DIO.iml" filepath="$PROJECT_DIR$/.idea/desafios-codigos-basicos-java-DIO.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/descubra-menor-multiplo/descubra-menor-multiplo.iml" filepath="$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/descubra-menor-multiplo/descubra-menor-multiplo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/encontrando-percentual-desconto/encontrando-percentual-desconto.iml" filepath="$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/encontrando-percentual-desconto/encontrando-percentual-desconto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/fila-do-banco/fila-do-banco.iml" filepath="$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/fila-do-banco/fila-do-banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/media-idade/media-idade.iml" filepath="$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/media-idade/media-idade.iml" />
+      <module fileurl="file://$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/qual-seu-turno/qual-seu-turno.iml" filepath="$PROJECT_DIR$/desafios-codigos-basicos-java-DIO/qual-seu-turno/qual-seu-turno.iml" />
+    </modules>
+  </component>
+</project>
